@@ -85,7 +85,13 @@ public class QQUserInfo {
 	 * 标识是否为年费黄钻用户（0：不是； 1：是）
 	 */
 	private String is_yellow_year_vip;
-	
+
+
+	private String figureurl_qq;
+	private String figureurl_type;
+	private String gender_type;
+	private String constellation;
+
 	
 	public String getRet() {
 		return ret;
@@ -201,7 +207,36 @@ public class QQUserInfo {
 	public void setIs_yellow_year_vip(String is_yellow_year_vip) {
 		this.is_yellow_year_vip = is_yellow_year_vip;
 	}
-	
-	
 
+	public String getGender_type() {
+		return gender_type;
+	}
+
+	public void setGender_type(String gender_type) {
+		this.gender_type = gender_type;
+	}
+
+	public String getFigureurl_qq() {
+		return figureurl_qq;
+	}
+
+	public void setFigureurl_qq(String figureurl_qq) {
+		this.figureurl_qq = figureurl_qq;
+	}
+
+	public String getFigureurl_type() {
+		return figureurl_type;
+	}
+
+	public void setFigureurl_type(String figureurl_type) {
+		this.figureurl_type = figureurl_type;
+	}
+
+	public String getConstellation() {
+		return constellation;
+	}
+
+	public void setConstellation(String constellation) {
+		this.constellation = constellation;
+	}
 }
