@@ -13,5 +13,5 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.E
 @Configuration
 @EnableResourceServer
 public class ImoocResourceServerConfig {
-
+    // 资源服务器
 }
