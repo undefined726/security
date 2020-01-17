@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="659c2e1a-3de8-4ac2-961a-b6caab68b564" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Develop\projects\security\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.2\conf\settings-my.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TnHC4YXNqRq0FnsdspaCXIAeJH" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../idea/Ty.CheckStyle.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2728249" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.24694377" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.security.core.social" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\projects\security\imooc-security-browser\src\main\resources" />
+      <recent name="D:\Develop\projects\security\imooc-security-core\src\main\java\com\imooc\security\core\social\connect\jdbc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="DemoApplication (8040)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="imooc-security-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.DemoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8040" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="imooc-security-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DemoApplication (8040)" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="659c2e1a-3de8-4ac2-961a-b6caab68b564" name="Default Changelist" comment="" />
+      <created>1574088808810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574088808810</updated>
+      <workItem from="1574088810173" duration="2800000" />
+      <workItem from="1574206852742" duration="1645000" />
+      <workItem from="1574249279994" duration="1035000" />
+      <workItem from="1574299158665" duration="841000" />
+      <workItem from="1574319235950" duration="545000" />
+      <workItem from="1574659229371" duration="1283000" />
+      <workItem from="1574661117633" duration="5076000" />
+      <workItem from="1574669921928" duration="33000" />
+      <workItem from="1574671410933" duration="535000" />
+      <workItem from="1574682403698" duration="110000" />
+      <workItem from="1574682861569" duration="1731000" />
+      <workItem from="1574685101955" duration="16000" />
+      <workItem from="1574737572772" duration="431000" />
+      <workItem from="1574744081534" duration="136000" />
+      <workItem from="1574818261158" duration="273000" />
+      <workItem from="1574818736517" duration="3188000" />
+      <workItem from="1574906022631" duration="742000" />
+      <workItem from="1574921379151" duration="848000" />
+      <workItem from="1575424439239" duration="5434000" />
+      <workItem from="1575438916241" duration="3141000" />
+      <workItem from="1575444596181" duration="682000" />
+      <workItem from="1575510471099" duration="579000" />
+      <workItem from="1575616297275" duration="12698000" />
+      <workItem from="1575854313638" duration="4506000" />
+      <workItem from="1575869949566" duration="16000" />
+      <workItem from="1575943755997" duration="24000" />
+      <workItem from="1577171545769" duration="2912000" />
+      <workItem from="1577175674065" duration="1609000" />
+      <workItem from="1577177598442" duration="1605000" />
+      <workItem from="1577181915185" duration="12192000" />
+      <workItem from="1577263969995" duration="5678000" />
+      <workItem from="1577327370532" duration="73000" />
+      <workItem from="1577327449816" duration="3027000" />
+      <workItem from="1577340444524" duration="9495000" />
+      <workItem from="1577425063466" duration="46000" />
+      <workItem from="1577425123606" duration="45000" />
+      <workItem from="1577425171938" duration="40000" />
+      <workItem from="1577425217822" duration="185000" />
+      <workItem from="1577425409362" duration="662000" />
+      <workItem from="1577426094288" duration="102000" />
+      <workItem from="1577426200038" duration="8000" />
+      <workItem from="1577426213025" duration="78000" />
+      <workItem from="1577426302005" duration="31000" />
+      <workItem from="1577426335634" duration="118000" />
+      <workItem from="1577426456294" duration="5651000" />
+      <workItem from="1577669320712" duration="2234000" />
+      <workItem from="1579145491633" duration="2358000" />
+      <workItem from="1579160996332" duration="7608000" />
+      <workItem from="1579228024042" duration="4804000" />
+      <workItem from="1579241023372" duration="182000" />
+      <workItem from="1579241290601" duration="198000" />
+      <workItem from="1579242170701" duration="548000" />
+      <workItem from="1579242935513" duration="165000" />
+      <workItem from="1579243692562" duration="120000" />
+      <workItem from="1579251750955" duration="51000" />
+      <workItem from="1579252563084" duration="4188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Develop/projects/security/imooc-security-core" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Develop/projects/security/imooc-security-browser" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Develop/projects/security/imooc-security-demo" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="4">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Develop/projects/security/imooc-security" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="5">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="6">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+        <option value="4" />
+        <option value="5" />
+        <option value="6" />
+      </set>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/repository/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE-sources.jar!/org/springframework/social/connect/jdbc/JdbcUsersConnectionRepository.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="requiredType.getName().equalsIgnoreCase(&quot;UsersConnectionRepository&quot;)" language="JAVA" />
+          <url>jar://E:/maven/repository/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
+          <line>1000</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/maven/repository/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/AbstractTokenGranter.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/imooc-security-app/src/main/java/com/imooc/security/app/authentication/ImoocAuthenticationSuccessHandler.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
